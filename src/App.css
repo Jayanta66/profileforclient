@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color:red;
+  background-color: #f08b07;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,19 +25,8 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #fb6169;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-
 
 #mypic{
 	width: 250px;
@@ -47,7 +36,7 @@
 		border-color:rgb(219, 18, 18);
 	
 	background-color:#82e379;
-  /*background-image: url("/me.jpg"); */
+  /* background-image: url("/me.jpg"); */
   background-position: center;
   background-size: cover;
   margin: 5px;
