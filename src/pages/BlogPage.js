@@ -1,3 +1,5 @@
+import './BlogPage.css';
+
 import React from "react";
 
 function BlogPage(){
