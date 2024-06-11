@@ -3,7 +3,7 @@ import Main from './components/Main';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" basename="https://www.tiptops.xyz/">
       <header className="App-header">
 
     <div>
