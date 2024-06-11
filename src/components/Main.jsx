@@ -34,10 +34,11 @@ const Main = () => {
         <p>
           If you want to develop any website then You may Contact through Mobile or whatsApp : 8910425824 & javatecci@gmail.com .
         </p>
-        <a className='clickMe' href='https://javatecci.github.io/client/'
+        <a id="linkk" className='clickMe' href='https://javatecci.github.io/client/'
         >
-        here
+        <h1 id="ppg">here</h1>
         </a>
+        <a className='link' href='/suvo'><h1 id="pp">Success Coching Center</h1></a>
 
         <div id="mypic">
 
