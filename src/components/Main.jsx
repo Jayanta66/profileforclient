@@ -21,12 +21,7 @@ const Main = () => {
         <div className="button">
 
 <a className='link' href='/suvo'>Success Coching Center</a>
-<a className='link' href='https://javatecci.github.io/client/'>me</a>
-<a className='link' href='https://javatecci.github.io/client/'>me</a>
-<a className='link' href='https://javatecci.github.io/client/'>me</a>
-<a className='link' href='https://javatecci.github.io/client/'>me</a>
-<a className='link' href='https://javatecci.github.io/client/'>me</a>
-<a className='link' href='https://javatecci.github.io/client/'>me</a>
+
 
 
 
