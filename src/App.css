@@ -82,3 +82,26 @@ p{
   background-color: white;
 }
 
+.fiverr-seller-widget{
+  width: 50vh;
+  height: 30vh;
+  display: inline-block;
+}
+
+.fiverr-seller-content{
+  width: 100vh;
+
+}
+
+#fiverr-widget-seller-data{
+  width: 100vh;
+  height: 30vh;
+  background-color: greenyellow;
+
+}
+
+a{
+  display: inline-block;
+
+}
+
