@@ -34,7 +34,7 @@ const Main = () => {
      <a itemprop='url' href='https://www.fiverr.com/jayanta_halder' rel="nofollow" target="">
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-6d56f626-3138-475c-91b8-a58b58a1cd55' itemprop='contentURL'></div>
         <div id='fiverr-widget-seller-data'>
-            <div itemprop='name' >jayanta_halder</div>
+            <div itemprop='name' >click here ... jayanta_halder</div>
             <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
             <div itemprop='jobtitle'>Seller</div>
             <div itemprop='description'> As an experienced full stack developer, I’ll build robust and scalable web applications using Java. From front-end design to back-end functionality, I’ve got you covered. Let’s turn your ideas into reality!</div>
@@ -63,7 +63,7 @@ const Main = () => {
         >
         <h1 id="ppg">here</h1>
         </a>
-        <a className='link' href='/suvo'><h1 id="pp">Success Coching Center</h1></a>
+        <a className='link' href='/suvo'><h1 id="pp">Success Coching Center ... click here ... </h1></a>
 
         <div id="mypic">
 
