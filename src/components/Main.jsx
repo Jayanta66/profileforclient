@@ -1,9 +1,11 @@
 import React from 'react'
 import videoBg from '../assets/videoBg.mp4'
+import { Navigate, useNavigate } from 'react-router-dom'
 
 
 
 const Main = () => {
+  const Navigate = useNavigate();
   return (
     <div className='main'>
         <div className="overlay"></div>
@@ -16,13 +18,12 @@ const Main = () => {
 
 
 <div className="content">
+<h2>Tiptops</h2>
 
 
-        <div className="button">
+    <div className="button">
 
-<a className='link' href='/suvo'>Success Coching Center</a>
-
-
+      <button onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
 
 
 </div>
