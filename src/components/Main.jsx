@@ -62,11 +62,8 @@ const Main = () => {
 
 
 
-        <a id="linkk" className='clickMe' href='https://javatecci.github.io/client/'
-        >
-        <h1 id="ppg">here</h1>
-        </a>
-        <a className='link' href='/suvo'><h1 id="pp">Success Coching Center ... click here ... </h1></a>
+
+        <button id='btn2' onClick={()=>Navigate("/suvo")} ><p id='pp'>Success Coching Center</p></button>
 
         <div id="mypic">
 
@@ -78,7 +75,7 @@ const Main = () => {
         <a href='https://pages.razorpay.com/pl_OKZIM9qQBVQfVY/view'><h1 id="py">Pay now</h1></a>
         </div>
 
-    
+
 
         </div>
     </div>
