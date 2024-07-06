@@ -23,7 +23,14 @@ const Main = () => {
 
     <div className="button">
 
-      <button onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+      <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+      <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+      <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+      <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+      <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+      <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+      <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
+
 
 
 </div>
