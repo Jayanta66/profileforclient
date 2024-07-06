@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import BlogPage from './pages/BlogPage';
+import Pageforclient1 from './pages/Pageforclient1';
+
 
 import {
   createBrowserRouter,
@@ -19,7 +21,13 @@ const router = createBrowserRouter([
   {
     path: "/suvo",
     element: <BlogPage/>,
+  },
+  {
+    path: "/pageforclient1",
+    element: <Pageforclient1/>,
   }
+
+
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
