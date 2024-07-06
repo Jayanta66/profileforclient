@@ -26,10 +26,6 @@ body {
   -moz-osx-font-smoothing: grayscale; 
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
 
 
 .button{
@@ -89,10 +85,12 @@ object-fit: cover;
 
 }
 
-.link{
-  color: #f9fbfc;
+#py{
+
+  color: yellow;
+
 }
 
-.clickMe{
-  color: #fc0404;
+h1{
+  color: yellow;
 }

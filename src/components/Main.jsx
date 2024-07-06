@@ -44,7 +44,6 @@ const Main = () => {
 
 <script id='fiverr-seller-widget-script-6d56f626-3138-475c-91b8-a58b58a1cd55' src='https://widgets.fiverr.com/api/v1/seller/jayanta_halder?widget_id=6d56f626-3138-475c-91b8-a58b58a1cd55' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
-
 </div>
 
 
