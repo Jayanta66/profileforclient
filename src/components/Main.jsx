@@ -22,7 +22,7 @@ const Main = () => {
 
 
     <div className="button">
-    <button id='btn' onClick={()=>Navigate("/")} >Home</button>
+    <button id='btn' onClick={()=>Navigate("https://www.tiptops.xyz/")} >Home</button>
       <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
       <button id='btn' onClick={()=>Navigate("/pageforclient1")} >About</button>
 
