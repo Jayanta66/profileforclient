@@ -5,7 +5,6 @@ import React from "react";
 function Pageforclient1(){
     return (
         <div className="App2">
-<h1>Page Under development</h1>
 
 <div id="con1">
 
