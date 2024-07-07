@@ -25,7 +25,7 @@ const Main = () => {
     <button id='btn' onClick={()=>Navigate("/")} >Home</button>
       <button id='btn' onClick={()=>Navigate("/suvo")} >Success Coching Center</button>
       <button id='btn' onClick={()=>Navigate("/pageforclient1")} >WorkShop</button>
-      <button id='btn' onClick={()=>Navigate("/pageforclient1")} >About</button>
+      <button id='btn' onClick={()=>Navigate("/pageforclient2")} >About</button>
 
 
 
